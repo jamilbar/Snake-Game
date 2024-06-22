@@ -17,8 +17,8 @@ This project involves implementing the classic Snake game as part of an exercise
 5. The game ends when the snake collides with itself, a wall, or a bomb.
 
 ## Installation
-1. Clone or download the game repository from [GitHub](https://github.com/jamilbar/Snake-Game).
-2. Ensure you have Python installed on your system.
+1. Ensure you have Python installed on your system.
+2. Clone or download the game repository from [GitHub](https://github.com/jamilbar/Snake-Game).
 
 ## Running the Game
 - Open your terminal or command prompt.
