@@ -23,7 +23,7 @@ This project involves implementing the classic Snake game as part of an exercise
 ## Running the Game
 - Open your terminal or command prompt.
 - Navigate to the directory where the game files are located.
-- Run the game using the command:
+- Run the game by executing the snake_main.py file
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
