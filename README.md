@@ -1,7 +1,7 @@
 ## Snake Game
 
 ## Overview
-This project involves implementing the classic Snake game as part of an exercise for the Introduction to Computer Science 67101 course. The goal is to apply programming concepts and practices to create a functioning game using the provided framework and instructions.
+This project involves implementing the classic Snake game as part of an exercise for the Introduction to Computer Science 67101 course. The goal is to apply programming concepts and practices to create a functioning game.
 
 ## Features
 - The game ends if the snake collides with itself, a wall, or a bomb.
