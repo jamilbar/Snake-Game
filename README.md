@@ -26,13 +26,6 @@ This project involves implementing the classic Snake game as part of an exercise
 - Navigate to the directory where the game files are located.
 - Run the game using the command:
 
-## Submission Guidelines
-1. Create a ZIP file named `ex10.zip`.
-2. Include the following files in the ZIP:
- - `snake_main.py`
- - `AUTHORS` file with the usernames (logins) of the two students, separated by a comma (e.g., `minniemouse,mickeymouse`).
-3. Do not include `game_display.py` or any other Python files used for your implementation.
-
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
