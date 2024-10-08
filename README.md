@@ -28,8 +28,5 @@ The project involved creating the main game logic, implementing object interacti
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 For any questions or support, please open an issue on the GitHub repository or contact the project maintainer.
